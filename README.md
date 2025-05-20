@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Ridhi
-- 👀 I’m interested in diving deep into the latest tech fields
-- 🌱 I’m currently commencing my journey in coding
-- 💞️ I’m looking to collaborate on mini projects in AIML DL
-- 📫 How to reach me ...
+- 👀 I’m interested in diving deep into the latest tech fields and exploring buisness field
+- 🌱 I’m currently commencing my journey in the field of ML, DL and AI
+- 💞️ I’m looking to collaborate on mini projects.
+- 📫 How to reach me: https://www.linkedin.com/in/ridhi-kulshreshtha/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ████████▒▒80%
 
 <!---
 Ridhi-Kul/Ridhi-Kul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
